@@ -67,7 +67,7 @@ class App extends Component {
       });
     }
   };
-
+// JSX
   render() {
     return (
       <Container>
